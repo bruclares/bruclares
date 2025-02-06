@@ -2,14 +2,6 @@
 
 **Desenvolvedora Full Stack em formação | Último semestre de ADS**  
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Flask](https://img.shields.io/badge/Flask-2.0-green)
-![Git](https://img.shields.io/badge/Git-%F0%9F%93%A6-orange)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26-red)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)
-
 ---
 
 ## Sobre Mim
@@ -24,10 +16,10 @@ Tenho mais de 14 anos de experiência em gestão de empresas e e-commerce, e ess
 
 ## Habilidades Técnicas
 
-- 🌐 **Front-end**: HTML, CSS, Bootstrap, JavaScript (ES6+).
-- 🖥️ **Back-end**: Python, Flask, SQL (PostgreSQL e MongoDB).
-- 🛠️ **Ferramentas**: Git, GitHub, VS Code.
-- 📊 **Metodologias**: Kanban, Scrum, Versionamento Semântico.
+-  **Front-end**: HTML, CSS, Bootstrap, JavaScript (ES6+).
+-  **Back-end**: Python, Flask, SQL (PostgreSQL e MongoDB).
+-  **Ferramentas**: Git, GitHub, VS Code.
+-  **Metodologias**: Kanban, Scrum, Versionamento Semântico.
 
 ---
 
