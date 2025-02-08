@@ -16,7 +16,7 @@ Tenho mais de 14 anos de experiência em gestão de empresas e e-commerce, e ess
 
 ## Habilidades Técnicas
 
--  **Front-end**: HTML, CSS, Bootstrap, JavaScript (ES6+).
+-  **Front-end**: HTML, CSS, Bootstrap, JavaScript.
 -  **Back-end**: Python, Flask, SQL (PostgreSQL e MongoDB).
 -  **Ferramentas**: Git, GitHub, VS Code.
 -  **Metodologias**: Kanban, Scrum, Versionamento Semântico.
@@ -41,7 +41,7 @@ Sistema para cadastro e gerenciamento de vacinas de pets, também em **Flask** e
 
 ##  Próximos Passos
 
-Atualmente, estou realizando o curso **JavaScript Completo ES6**, que aborda desde o básico até o avançado, com foco no domínio da linguagem. O curso inclui manipulação do DOM, requisições via Fetch API, além de ensinar conceitos modernos como arrow functions, promises e outras novidades do JavaScript. 
+Atualmente, estou realizando o curso **JavaScript Completo**, que aborda desde o básico até o avançado, com foco no domínio da linguagem. O curso inclui manipulação do DOM, requisições via Fetch API, além de ensinar conceitos modernos como arrow functions, promises e outras novidades do JavaScript. 
 
 Após concluir meu curso de ADS, pretendo iniciar a graduação em **Sistemas de Informação**, continuando minha trajetória de estudos e prática em tecnologia e desenvolvimento full stack, além de seguir em frente com tecnologias como **React**, **Node.js**, **Angular**, **APIs REST** e **TypeScript**.  
 
