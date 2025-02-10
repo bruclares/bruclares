@@ -55,6 +55,5 @@ Após concluir meu curso de ADS, pretendo iniciar a graduação em **Sistemas de
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bruclares&show_icons=true&theme=radical)
 
 ⭐️ **Obrigada por visitar meu perfil!** ⭐️
