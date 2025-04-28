@@ -1,59 +1,68 @@
-# Olá, eu sou a Bruna Clares!
+# Olá, eu sou a Bruna Clares! 
 
-**Desenvolvedora Full Stack em formação | Último semestre de ADS**  
+**Desenvolvedora | Ex-Gestora Empresarial transformando operações em código**
 
----
+## O que me define?
 
-## Sobre Mim
+Sou a interseção entre tecnologia e negócios:  
+💻 2 anos desenvolvendo com Python, JavaScript e bancos de dados  
+📈 18 anos liderando operações empresariais (e-commerce, varejo, ERP)  
+🚀 Especialista em criar soluções que geram impacto mensurável (já aumentei faturamento em 27% e reduzi custos em 18% através de sistemas)
 
-Estou no último semestre de **Análise e Desenvolvimento de Sistemas** e já estou me preparando para dar o próximo passo: planejo iniciar a graduação em **Sistemas de Informação**. Meu objetivo? Me tornar uma desenvolvedora full stack, com foco no desenvolvimento de aplicações web.
+## Meu diferencial
 
-Hoje, estou construindo aplicações práticas, estudando e praticando tanto o front-end quanto o back-end, com tecnologias como HTML, CSS, Python, Flask e SQL. Adoro a ideia de criar soluções que resolvam problemas reais, por isso, estou sempre buscando uma maneira mais simples e eficiente de fazer as coisas.
+Não sou apenas uma desenvolvedora - sou uma **"tradução humana"** entre times técnicos e áreas de negócio. Minha experiência única me permite:
 
-Tenho mais de 14 anos de experiência em gestão de empresas e e-commerce, e essa bagagem me ajuda a enxergar o panorama completo, facilitando a integração de soluções técnicas com uma visão estratégica. Gosto de ser objetiva, prática e, acima de tudo, fazer com que o que eu crio seja funcional e útil.
+- **Enxergar além do código**: entender como cada feature impacta operações reais
+- **Antecipar dores de usuários**: já fui key user em implantações de ERP
+- **Desenvolver com propósito**: cada linha de código escrita para resolver problemas reais
 
----
+## Stack atual
 
-## Habilidades Técnicas
+**Front-end:**  
+HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap  
 
--  **Front-end**: HTML, CSS, Bootstrap, JavaScript.
--  **Back-end**: Python, Flask, SQL (PostgreSQL e MongoDB).
--  **Ferramentas**: Git, GitHub, VS Code.
--  **Metodologias**: Kanban, Scrum, Versionamento Semântico.
+**Back-end:**  
+Python | Flask | PostgreSQL | MongoDB | APIs REST  
 
----
+**Ferramentas:**  
+Git/GitHub (commits semânticos) | VS Code | Cloudinary | Vercel  
 
-## Projetos Destacados
+**Em estudo:**  
+JavaScript (ES6+) | React | Tailwind CSS | Node.js  
 
-### [Portfólio de Desenvolvedora Full Stack](https://bruna-portifolio-iota.vercel.app)
-Um site para apresentar minha trajetória, habilidades e outros projetos. Usei **HTML Semântico**, **CSS**, **JavaScript** e fiz o deploy na **Vercel**.
+## Projetos em destaque
 
-### [Landing Page para Advogados](https://bruna-portifolio-iota.vercel.app/projetos.html)
+**[Aplicação Web para Fotógrafos](https://portfolio-fotografo.vercel.app/)**  
+Sistema full stack com autenticação, upload de imagens para Cloudinary e painel administrativo  
+→ Python (Flask) | PostgreSQL | JavaScript  
+
+**[Site para Desenvolvedores](https://bruna-portifolio-iota.vercel.app)**     
+Um site para apresentar minha trajetória, habilidades e outros projetos  
+→ HTML Semântico | CSS | JavaScript | Vercel
+
+**[Landing Page para Advogados](https://bruna-portifolio-iota.vercel.app/projetos.html)**  
 Página focada em design responsivo e acessibilidade, com **HTML**, **CSS** e deploy na **Vercel**. A página alcançou 100% em acessibilidade, SEO e boas práticas no Lighthouse.
 
-### [ListUp](https://github.com/bruclares/listup)
-Aplicação em **Flask** para gerenciar listas de tarefas, utilizando **PostgreSQL**, estrutura **MVC** e design com **Bootstrap 5.3**.
+**[ListUp - Gerenciador de Tarefas](https://github.com/bruclares/listup)**  
+Aplicação MVC com CRUD completo e design responsivo  
+→ Flask | Bootstrap 5 | PostgreSQL  
 
-### [VacinaPet](https://github.com/bruclares/vacinapet)
-Sistema para cadastro e gerenciamento de vacinas de pets, também em **Flask** e **PostgreSQL**, com uso do **Kanban** no Trello para organização.
+**[VacinaPet - Gestão Veterinária](https://github.com/bruclares/vacinapet)**  
+Sistema para clínicas com registro de vacinas e pacientes  
+→ Flask | PostgreSQL | Kanban  
 
----
+## Próximos passos
 
-##  Próximos Passos
+- Finalizando graduação em Análise e Desenvolvimento de Sistemas (conclusão 06/2025)
+- Mergulhando em JavaScript avançado e ecossistema React
+- Desenvolvendo projetos que apliquem minha visão 360° de negócios
 
-Atualmente, estou realizando o curso **JavaScript Completo**, que aborda desde o básico até o avançado, com foco no domínio da linguagem. O curso inclui manipulação do DOM, requisições via Fetch API, além de ensinar conceitos modernos como arrow functions, promises e outras novidades do JavaScript. 
+## Vamos conversar?
 
-Após concluir meu curso de ADS, pretendo iniciar a graduação em **Sistemas de Informação**, continuando minha trajetória de estudos e prática em tecnologia e desenvolvimento full stack, além de seguir em frente com tecnologias como **React**, **Node.js**, **Angular**, **APIs REST** e **TypeScript**.  
+Quer discutir como tecnologia pode transformar sua operação? Me chame!  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-clares-cardoso)  
+✉️ clares.bruna@gmail.com  
+🌐 [Portfólio](https://bruna-portifolio-iota.vercel.app)  
 
-## Contato
-
-- **LinkedIn**: [Bruna Clares Cardoso](https://linkedin.com/in/bruna-clares-cardoso)
-- **E-mail**: clares.bruna@gmail.com
-- **Portfólio**: [bruna-portifolio-iota.vercel.app](https://bruna-portifolio-iota.vercel.app)
-
----
-
-
-⭐️ **Obrigada por visitar meu perfil!** ⭐️
