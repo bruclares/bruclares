@@ -60,8 +60,6 @@ Sistema para clínicas com registro de vacinas e pacientes
 
 ## Vamos conversar?
 
-Quer discutir como tecnologia pode transformar sua operação? Me chame!  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-clares-cardoso)  
 ✉️ clares.bruna@gmail.com  
 🌐 [Portfólio](https://bruna-portifolio-iota.vercel.app)  
