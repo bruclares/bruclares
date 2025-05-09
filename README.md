@@ -1,6 +1,6 @@
 # Olá, eu sou a Bruna Clares! 
 
-**Desenvolvedora | Ex-Gestora Empresarial transformando operações em código**
+**Desenvolvedora Web**
 
 ## O que me define?
 
