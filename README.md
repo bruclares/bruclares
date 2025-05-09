@@ -49,7 +49,7 @@ Aplicação MVC com CRUD completo e design responsivo
 → Flask | Bootstrap 5 | PostgreSQL  
 
 **[VacinaPet - Gestão Veterinária](https://github.com/bruclares/vacinapet)**  
-Sistema para clínicas com registro de vacinas e pacientes  
+Sistema para registro de vacinas de pets
 → Flask | PostgreSQL | Kanban  
 
 ## Próximos passos
