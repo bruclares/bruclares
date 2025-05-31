@@ -1,4 +1,4 @@
-# 👩‍💻 Bruna Clares
+# Bruna Clares
 
 **Desenvolvedora Web Full Stack em formação**  
 🛠 Python | Flask | JavaScript | PostgreSQL | HTML5 | CSS3  
